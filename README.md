@@ -29,7 +29,7 @@ O projeto oferece as seguintes funcionalidades:
 3. **Calcule as métricas:**
 ## Exemplo
 
-Veja um exemplo de como usar o projeto no arquivo [Matrix_confusion.ipynb]
+Veja um exemplo de como usar o projeto no arquivo 
 
 ## Observações
 
